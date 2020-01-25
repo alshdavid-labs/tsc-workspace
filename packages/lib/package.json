@@ -1,0 +1,8 @@
+{
+  "name": "@org/lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.7.5"
+  }
+}
